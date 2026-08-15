@@ -1,1 +1,1 @@
-Очень много точных решений нелинейных уравнений математической физики можно найти в книге A. D. Polyanin and V. F. Zaitsev, Handbook of Nonlinear Partial Differential Equations, 2nd Edition (Updated, Revised and Extended), Chapman & Hall/CRC Press, Boca Raton–London, 2012.
+Проверьте выкладки еще раз. Решение ищется в виде $u=a(t)x+b(t)x^{1/2}$, где $ab\not\equiv 0$.
