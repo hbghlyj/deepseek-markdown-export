@@ -1,1 +1,0 @@
-Решение этого уравнения приведено в Handbook of Exact Solutions for Ordinary Differential Equations, 2nd Edition (2003) в разделе 1.3. Abel equations of the second kind на стр. 111 (Eq. 8).

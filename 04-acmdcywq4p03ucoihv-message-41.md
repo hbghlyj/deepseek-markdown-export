@@ -1,1 +1,0 @@
-Polyanin A.D. Functional separable solutions of nonlinear reaction-diffusion equations with variable coefficients. Applied Math. \& Comput., 2019d, Vol.~347, pp.~282--292.
